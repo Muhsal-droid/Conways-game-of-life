@@ -15,7 +15,7 @@ int main ( int argc, char *argv[] ) {
    int futuregrid[row][column];
    int displaygrid[row][column];
    FILE *f1;
-   int i,j,a,b,c,r,s,x,t,k;
+   int i,j,a,b,c,r,s,x,t;
    int alltick = 50;
    int tick=0;
    char y[1];
